@@ -1,0 +1,8 @@
+{
+  "name": "ShiftFlow",
+  "description": "ShiftFlow is a high-fidelity mobile widget for workday tracking. It features smart countdowns, color-coded progress bars, 15-minute warnings, and dark mode support.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": []
+}
